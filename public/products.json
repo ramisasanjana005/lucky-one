@@ -1,0 +1,56 @@
+[
+    {
+        "id": "01",
+        "name": "Headphone",
+        "price": 2000,
+        "image": "https://img.freepik.com/free-photo/headphones-audio-listen_1203-7566.jpg?w=360&t=st=1648377707~exp=1648378307~hmac=a190d558d6f9bb06d8115ca20c1162bcf4c0e2c8959f811d1a10f77d38c01750"
+    },
+    {
+        "id": "02",
+        "name": "Speaker",
+        "price": 5000,
+        "image": "https://img.freepik.com/free-psd/squared-bluetooth-speaker-mockup-floating_1332-8215.jpg?t=st=1648378116~exp=1648378716~hmac=c47934f4a5316bb8cb1ab61f9b7cc2378701d064654c0e20a7c194e50a9952cc&w=360"
+    },
+    {
+        "id": "03",
+        "name": "Smartwatch",
+        "price": 5500,
+        "image": "https://img.freepik.com/free-photo/smartwatch-white-podium_125540-1602.jpg?t=st=1648377890~exp=1648378490~hmac=2a8f80b650f27aa1eb0d4d43296d10496b1a4a46e21eed3ae8c6c60ae1c33833&w=900"
+    },
+    {
+        "id": "04",
+        "name": "Power Bank",
+        "price": 1500,
+        "image": "https://img.freepik.com/free-photo/power-bank-mobile-phone_155003-7186.jpg?t=st=1648377929~exp=1648378529~hmac=70b48ee3632f1131f0791a2d2de434139dc4781eac02b03a2c9dca36fe1f5dfe&w=360"
+    },
+    {
+        "id": "05",
+        "name": "Webcam",
+        "price": 3400,
+        "image": "https://img.freepik.com/free-photo/webcam_1160-268.jpg?t=st=1648377970~exp=1648378570~hmac=8e49e478efc8a9914c2bfd8cf5349e708612e50f83d51038f91744b2496bfb38&w=360"
+    },
+    {
+        "id": "06",
+        "name": "Pendrive",
+        "price": 500,
+        "image": "https://img.freepik.com/free-photo/pendrive-isolated-white_1368-6389.jpg?t=st=1648377999~exp=1648378599~hmac=686f12a17373a59380ea21dd90267505a475b112126c219d17b6bf14b5f9ff54&w=360"
+    },
+    {
+        "id": "07",
+        "name": "Microphone",
+        "price": 2400,
+        "image": "https://img.freepik.com/free-photo/black-standing-micropfone-studio_140725-7932.jpg?t=st=1648378034~exp=1648378634~hmac=b274e5e74b61cebd8de4061b82758ee22d50c878b9322d5abf6e0eb074b25d2b&w=360"
+    },
+    {
+        "id": "08",
+        "name": "Keyboard",
+        "price": 1800,
+        "image": "https://img.freepik.com/free-photo/wireless-mouse-keyboard_1260-15.jpg?1&t=st=1648378085~exp=1648378685~hmac=a169d0fc04e18fa794ed1adea9968d8083bd2f4c11649aed74d6b086dea4d3ad&w=360"
+    },
+    {
+        "id": "09",
+        "name": "Mouse",
+        "price": 1200,
+        "image": "https://img.freepik.com/free-photo/purple-computer-mouse_1260-11.jpg?1&t=st=1648377840~exp=1648378440~hmac=d5aa319512b2bd8c835c6a647b749559fd8db8b12368f8bdea7e06e495080468&w=1060"
+    }
+]
